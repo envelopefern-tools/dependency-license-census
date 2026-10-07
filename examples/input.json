@@ -1,0 +1,12 @@
+{
+  "packages": [
+    {
+      "name": "a",
+      "license": "MIT"
+    },
+    {
+      "name": "b",
+      "license": null
+    }
+  ]
+}
